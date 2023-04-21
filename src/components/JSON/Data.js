@@ -1,0 +1,73 @@
+export const questiondata = [
+    {
+        que: "1. How satisfied are you with our products?",
+        type: "1/1",
+        r1 : "1",
+        r2 : "2",
+        r3 : "3",
+        r4 : "4",
+        r5 : "5",
+        r6 : "null",
+        r7 : "null",
+        r8 : "null",
+        r9 : "null",
+        r10 : "null"
+
+    },
+    {
+        que: "2.How fair are the prices compared to similar retailer?",
+        type: "1/2",
+        r1 : "1",
+        r2 : "2",
+        r3 : "3",
+        r4 : "4",
+        r5 : "5",
+        r6 : "null",
+        r7 : "null",
+        r8 : "null",
+        r9 : "null",
+        r10 : "null"
+    },
+    {
+        que: "3. How satisfied are you with the value for money of your purchase?",
+        type: "1/3",
+        r1 : "1",
+        r2 : "2",
+        r3 : "3",
+        r4 : "4",
+        r5 : "5",
+        r6 : "null",
+        r7 : "null",
+        r8 : "null",
+        r9 : "null",
+        r10 : null
+    },
+    {
+        que: "On a scale of 1-10 how would you recommend us to your friens and family?",
+        type: "1/4",
+        r1 : "1",
+        r2 : "2",
+        r3 : "3",
+        r4 : "4",
+        r5 : "5",
+        r6 : "6",
+        r7 : "7",
+        r8 : "8",
+        r9 : "9",
+        r10 : "10"
+    },
+    {
+        que: "What couldwe do to improve our services",
+        type: "1/5",
+        r1 : "null",
+        r2 : "null",
+        r3 : "null",
+        r4 : "null",
+        r5 : "null",
+        r6 : "null",
+        r7 : "null",
+        r8 : "null",
+        r9 : "null",
+        r10 : "null"
+    },
+]
